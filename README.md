@@ -1,4 +1,4 @@
-# Repositório Cheat Sheet da Trybe
+# Repositório Cheat Sheet 
 
 Repositório de *cheat sheets* para consultas rápidas.
 
